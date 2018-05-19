@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://ot8psglzx.bkt.clouddn.com/ppms2.ipa</string>  
+                    <string>http://ot8psglzx.bkt.clouddn.com/ppms3.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://xxxxxxxxxxxxxxxxxx.png</string>  
+                    <string>http://ot8psglzx.bkt.clouddn.com/ppm_icon.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://xxxxxxxxxxxxxxxxxx.png</string>  
+                    <string>http://ot8psglzx.bkt.clouddn.com/ppm_icon.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
